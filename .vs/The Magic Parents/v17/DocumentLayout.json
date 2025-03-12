@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Master Graduation Project\\The Magic Parents\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|d:\\master graduation project\\the magic parents\\themagicparents.core\\models\\paymenttransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|solutionrelative:themagicparents.core\\models\\paymenttransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentTransactions.cs",
+              "DocumentMoniker": "D:\\Master Graduation Project\\The Magic Parents\\TheMagicParents.Core\\Models\\PaymentTransactions.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Core\\Models\\PaymentTransactions.cs",
+              "ToolTip": "D:\\Master Graduation Project\\The Magic Parents\\TheMagicParents.Core\\Models\\PaymentTransactions.cs",
+              "RelativeToolTip": "TheMagicParents.Core\\Models\\PaymentTransactions.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADwvyIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T15:01:01.051Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Bookmark",
