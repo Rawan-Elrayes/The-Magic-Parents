@@ -19,11 +19,11 @@ namespace TheMagicParents.Models
 		public int CityID { get; set; }
 
 		// Navigation properties
-		[ForeignKey("ClientID")]
+		[ForeignKey(nameof(ClientID))]
 		public virtual Client Client { get; set; }
-		[ForeignKey("ServiceProviderID")]
+		[ForeignKey(nameof(ServiceProviderID))]
 		public virtual ServiceProvider ServiceProvider { get; set; }
-		[ForeignKey("CityID")]
+		[ForeignKey(nameof(CityID))]
 		public virtual City City { get; set; }
 
 		//1:1 relations

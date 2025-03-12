@@ -10,10 +10,10 @@ namespace TheMagicParents.Models
 		public int NumberOfCanceledServices { get; set; }
 		public int NumberOfSupports { get; set; }
 
-		[ForeignKey("ClientId")]
+		[ForeignKey(nameof(ClientId))]
 		public virtual Client Client { get; set; }
 
-		[ForeignKey("ServiceProviderId")]
+		[ForeignKey(nameof(ServiceProviderId))]
 		public virtual ServiceProvider ServiceProvider { get; set; }	
 
 	}
