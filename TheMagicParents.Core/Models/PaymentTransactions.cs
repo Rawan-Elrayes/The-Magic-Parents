@@ -26,7 +26,7 @@ namespace TheMagicParents.Models
         public string BankName { get; set; }
 
         [Required]
-        public int ServiceProviderID { get; set; }
+        public string ServiceProviderID { get; set; }
 
         [ForeignKey(nameof(ServiceProviderID))]
         public virtual ServiceProvider ServiceProvider { get; set; }

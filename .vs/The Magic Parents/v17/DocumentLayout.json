@@ -1,10 +1,94 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Master Graduation Project\\The Magic Parents\\",
+  "WorkspaceRootPath": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|d:\\master graduation project\\the magic parents\\themagicparents.core\\models\\paymenttransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314012417_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheMagicParents.Infrastructure\\Data\\Migrations\\20250314012417_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|solutionrelative:themagicparents.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.core\\models\\serviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|solutionrelative:themagicparents.core\\models\\serviceprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.core\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|solutionrelative:themagicparents.core\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF80F5E6-8312-4DB3-99A1-DD51C337FFCC}|TheMagicParents.Infrastructure\\TheMagicParents.Infrastructure.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF80F5E6-8312-4DB3-99A1-DD51C337FFCC}|TheMagicParents.Infrastructure\\TheMagicParents.Infrastructure.csproj|solutionrelative:themagicparents.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.core\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|solutionrelative:themagicparents.core\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314011123_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheMagicParents.Infrastructure\\Data\\Migrations\\20250314011123_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010832_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010832_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010445_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010445_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010143_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010143_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314005820_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheMagicParents.Infrastructure\\Data\\Migrations\\20250314005820_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314005604_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TheMagicParents.Infrastructure\\Data\\Migrations\\20250314005604_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.core\\models\\paymenttransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|solutionrelative:themagicparents.core\\models\\paymenttransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.core\\models\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|solutionrelative:themagicparents.core\\models\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E093A4-0049-4B0B-B759-C6E68BD68CDC}|TheMagicParentsTest\\TheMagicParentsTest.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparentstest\\themagicparentstest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5E093A4-0049-4B0B-B759-C6E68BD68CDC}|TheMagicParentsTest\\TheMagicParentsTest.csproj|solutionrelative:themagicparentstest\\themagicparentstest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1EAC25-E7A7-4B22-98F2-3278FA138BC6}|TheMagicParents.API\\TheMagicParents.API.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.api\\themagicparents.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AF1EAC25-E7A7-4B22-98F2-3278FA138BC6}|TheMagicParents.API\\TheMagicParents.API.csproj|solutionrelative:themagicparents.api\\themagicparents.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF80F5E6-8312-4DB3-99A1-DD51C337FFCC}|TheMagicParents.Infrastructure\\TheMagicParents.Infrastructure.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.infrastructure\\themagicparents.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF80F5E6-8312-4DB3-99A1-DD51C337FFCC}|TheMagicParents.Infrastructure\\TheMagicParents.Infrastructure.csproj|solutionrelative:themagicparents.infrastructure\\themagicparents.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1EAC25-E7A7-4B22-98F2-3278FA138BC6}|TheMagicParents.API\\TheMagicParents.API.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1EAC25-E7A7-4B22-98F2-3278FA138BC6}|TheMagicParents.API\\TheMagicParents.API.csproj|solutionrelative:themagicparents.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.core\\themagicparents.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6A54FC09-99A2-4B99-A326-0EF9540E6762}|TheMagicParents.Core\\TheMagicParents.Core.csproj|solutionrelative:themagicparents.core\\themagicparents.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1EAC25-E7A7-4B22-98F2-3278FA138BC6}|TheMagicParents.API\\TheMagicParents.API.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AF1EAC25-E7A7-4B22-98F2-3278FA138BC6}|TheMagicParents.API\\TheMagicParents.API.csproj|solutionrelative:themagicparents.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF1EAC25-E7A7-4B22-98F2-3278FA138BC6}|TheMagicParents.API\\TheMagicParents.API.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparents.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF1EAC25-E7A7-4B22-98F2-3278FA138BC6}|TheMagicParents.API\\TheMagicParents.API.csproj|solutionrelative:themagicparents.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E093A4-0049-4B0B-B759-C6E68BD68CDC}|TheMagicParentsTest\\TheMagicParentsTest.csproj|c:\\users\\menna\\desktop\\the magic paretns\\the-magic-parents\\themagicparentstest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E093A4-0049-4B0B-B759-C6E68BD68CDC}|TheMagicParentsTest\\TheMagicParentsTest.csproj|solutionrelative:themagicparentstest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,27 +103,296 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20250314012417_init.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314012417_init.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314012417_init.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314012417_init.cs",
+              "RelativeToolTip": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314012417_init.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAcwB0BAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:24:17.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\Models\\ServiceProvider.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Core\\Models\\ServiceProvider.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\Models\\ServiceProvider.cs",
+              "RelativeToolTip": "TheMagicParents.Core\\Models\\ServiceProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:22:49.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\Models\\User.cs",
+              "RelativeToolTip": "TheMagicParents.Core\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:21:17.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250314011123_init.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314011123_init.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314011123_init.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314011123_init.cs",
+              "RelativeToolTip": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314011123_init.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:11:23.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250314010832_init.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010832_init.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010832_init.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010832_init.cs",
+              "RelativeToolTip": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010832_init.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:08:32.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250314010445_init.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010445_init.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010445_init.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010445_init.cs",
+              "RelativeToolTip": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010445_init.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAAACgBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:04:45.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "TheMagicParents.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:18:11.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Core\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\Models\\Client.cs",
+              "RelativeToolTip": "TheMagicParents.Core\\Models\\Client.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:08:53.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250314010143_init.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010143_init.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010143_init.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010143_init.cs",
+              "RelativeToolTip": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314010143_init.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T01:01:44.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250314005820_init.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314005820_init.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314005820_init.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314005820_init.cs",
+              "RelativeToolTip": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314005820_init.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:58:20.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Core\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\Models\\Booking.cs",
+              "RelativeToolTip": "TheMagicParents.Core\\Models\\Booking.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:46:21.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250314005604_init2.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314005604_init2.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314005604_init2.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\Data\\Migrations\\20250314005604_init2.cs",
+              "RelativeToolTip": "TheMagicParents.Infrastructure\\Data\\Migrations\\20250314005604_init2.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:56:05.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Availability.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\Models\\Availability.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.Core\\Models\\Availability.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\Models\\Availability.cs",
+              "RelativeToolTip": "TheMagicParents.Core\\Models\\Availability.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T00:46:45.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "PaymentTransactions.cs",
-              "DocumentMoniker": "D:\\Master Graduation Project\\The Magic Parents\\TheMagicParents.Core\\Models\\PaymentTransactions.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\Models\\PaymentTransactions.cs",
               "RelativeDocumentMoniker": "TheMagicParents.Core\\Models\\PaymentTransactions.cs",
-              "ToolTip": "D:\\Master Graduation Project\\The Magic Parents\\TheMagicParents.Core\\Models\\PaymentTransactions.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\Models\\PaymentTransactions.cs",
               "RelativeToolTip": "TheMagicParents.Core\\Models\\PaymentTransactions.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAADwvyIAAAAAAAAA",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxwAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-12T15:01:01.051Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TheMagicParentsTest.csproj",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParentsTest\\TheMagicParentsTest.csproj",
+              "RelativeDocumentMoniker": "TheMagicParentsTest\\TheMagicParentsTest.csproj",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParentsTest\\TheMagicParentsTest.csproj",
+              "RelativeToolTip": "TheMagicParentsTest\\TheMagicParentsTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T23:08:28.66Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TheMagicParents.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.API\\TheMagicParents.API.csproj",
+              "RelativeDocumentMoniker": "TheMagicParents.API\\TheMagicParents.API.csproj",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.API\\TheMagicParents.API.csproj",
+              "RelativeToolTip": "TheMagicParents.API\\TheMagicParents.API.csproj",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T23:08:24.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.API\\appsettings.json",
+              "RelativeDocumentMoniker": "TheMagicParents.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.API\\appsettings.json",
+              "RelativeToolTip": "TheMagicParents.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T22:31:51.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.API\\Program.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.API\\Program.cs",
+              "RelativeToolTip": "TheMagicParents.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:29:06.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TheMagicParents.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\TheMagicParents.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "TheMagicParents.Infrastructure\\TheMagicParents.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Infrastructure\\TheMagicParents.Infrastructure.csproj",
+              "RelativeToolTip": "TheMagicParents.Infrastructure\\TheMagicParents.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T22:33:39.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TheMagicParents.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\TheMagicParents.Core.csproj",
+              "RelativeDocumentMoniker": "TheMagicParents.Core\\TheMagicParents.Core.csproj",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.Core\\TheMagicParents.Core.csproj",
+              "RelativeToolTip": "TheMagicParents.Core\\TheMagicParents.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T22:09:45.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParentsTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "TheMagicParentsTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParentsTest\\UnitTest1.cs",
+              "RelativeToolTip": "TheMagicParentsTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:04:58.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "TheMagicParents.API\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Menna\\Desktop\\The Magic Paretns\\The-Magic-Parents\\TheMagicParents.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "TheMagicParents.API\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:50:00.512Z",
+              "EditorCaption": ""
             }
           ]
         }

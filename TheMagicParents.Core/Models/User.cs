@@ -10,9 +10,12 @@ namespace TheMagicParents.Models
         public string IdCardFrontPhoto { get; set; }
         public string IdCardBackPhoto { get;set; }
         public StateType AccountState { get; set; }
+        public int NumberOfSuccessfulServices { get; set; } = 0;
+        public int NumberOfCanceledServices { get; set; } = 0;
+        public int NumberOfSupports { get; set; } = 0;
+
         public int CityId { get; set; }
 		[ForeignKey(nameof(CityId))]
-
 		public virtual City City { get; set; }
     }
 }

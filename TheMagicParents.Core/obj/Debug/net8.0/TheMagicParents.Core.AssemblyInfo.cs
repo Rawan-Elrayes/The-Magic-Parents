@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TheMagicParents.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d25a710631efb57c1bf6788d3a8e25791a55d0c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TheMagicParents.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TheMagicParents.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

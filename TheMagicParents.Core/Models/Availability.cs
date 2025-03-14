@@ -11,7 +11,7 @@ namespace TheMagicParents.Models
 		public DateTime Date { get; set; }
 		[Required]
 		public TimeSpan Time { get; set; } 
-		public int ServiceProciderID { get; set; }
+		public string ServiceProciderID { get; set; }
 
 		[ForeignKey("ServiceProciderID")]
 		public virtual ServiceProvider ServiceProvider { get; set; }

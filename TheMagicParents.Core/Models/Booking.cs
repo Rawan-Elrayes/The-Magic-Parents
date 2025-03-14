@@ -8,8 +8,8 @@ namespace TheMagicParents.Models
 	{
 		[Key]
 		public int BookingID { get; set; }
-		public int ClientID { get; set; }
-		public int ServiceProviderID { get; set; }
+		public string ClientID { get; set; }
+		public string ServiceProviderID { get; set; }
 		[Required]
 		public DateTime BookingTime { get; set; }
 		[Required]
@@ -29,9 +29,5 @@ namespace TheMagicParents.Models
 		//1:1 relations
 		public virtual Payment Payment { get; set; }
 		public virtual Review Review { get; set; }
-
-
-
-
 	}
 }
